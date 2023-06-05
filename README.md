@@ -10,7 +10,7 @@ This project is a clone of the popular e-commerce website Amazon. It has been bu
 <li>Responsive and modern UI with Tailwind CSS.
 <li>Material Icons integrated.
 
-<br><h3>You can visit <a href="https://amazon-clone-five-woad.vercel.app/" target="_blank">Amazon CLone.</a>
+<br><h3>You can visit <a href="https://amazon-clone-psi-flame.vercel.app/" target="_blank">Amazon CLone.</a>
 <br /><br />
 <img src="./src/assets/demo.jpg"/>
 

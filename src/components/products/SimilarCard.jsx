@@ -23,11 +23,13 @@ const SimilarCard = ({ product }) => {
   };
 
   const goToDetails = (event) => {
-    if (event.target.nodeName !== "BUTTON") navigate(`/${id}`);
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
+    if (event.target.nodeName !== "BUTTON") {
+      navigate(`/${id}`);
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth",
+      });
+    }
   };
 
   return (
